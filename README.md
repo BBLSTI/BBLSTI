@@ -19,7 +19,7 @@ Core server technologies you will be required to have a working knowledge of are
 - Nginx Web Server
 - Gunicorn
 
-Docker has not been employed yet as the system currently stands.
+As the system currently stands Docker has not yet been employed.
 
 The application may be installed in an ENV by cloning the repository and running requirements.txt. On the PostGreSQL database installation the PostGIS extension is required to be added. Additional installation of redis-server is required to run the background and cached applications.
 
